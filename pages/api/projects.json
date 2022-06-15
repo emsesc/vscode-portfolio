@@ -4,7 +4,7 @@
     "name": "Intro to Serverless",
     "image": "https://imgur.com/kbGs6zH.png",
     "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
+    "tags": ["serverless", "azure", "nodejs", "apis", "html/css"],
     "source_code": "https://github.com/itsnitinr/driwwwle-v2",
     "demo": "https://driwwwle.com/"
   },
@@ -13,7 +13,7 @@
     "name": "CounselorBot",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "tags": ["probot", "nodejs", "hasura", "graphql", "postgresql", "github-actions", "cypress"],
     "demo": "https://www.pcbcupid.com/"
   },
   {
@@ -21,7 +21,7 @@
     "name": "TinyHats",
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "tags": ["kubernetes", "nodejs", "python", "golang", "expressjs", "pixie", "newrelic", "aws"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
   },
@@ -30,7 +30,7 @@
     "name": "CyberSleuth",
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "tags": ["python", "html/css", "steganography", "cyberforensics", "linux"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
   },
@@ -39,7 +39,7 @@
     "name": "CounselorTracker",
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "tags": ["azure", "cron", "nodejs", "hasura", "graphql", "postgresql"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
   },
@@ -48,7 +48,7 @@
     "name": "CounselorLeaderboard",
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "tags": ["html/css/js", "expressjs"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
   },
@@ -57,7 +57,7 @@
     "name": "Bunnimage",
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "tags": ["nodejs", "azure", "html/css/js"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
   },
@@ -66,7 +66,7 @@
     "name": "SyncFit",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
+    "tags": ["aws-s3", "expressjs", "nodejs", "bootstrap", "apis"],
     "source_code": "https://github.com/itsnitinr/vscode-portfolio",
     "demo": "http://vscode-portfolio.vercel.app/"
   }
