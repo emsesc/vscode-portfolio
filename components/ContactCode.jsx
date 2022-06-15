@@ -3,53 +3,28 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    link: 'emilychen.me',
+    href: 'https://my-portfolio-2022-two.vercel.app/',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'emseschen@gmail.com',
+    href: 'mailto:emseschen@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'emsesc',
+    href: 'https://github.com/emsesc',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'emilyschen',
+    href: 'https://www.linkedin.com/in/emilyschen/',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
-  },
-  {
-    social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    link: 'emsesc',
+    href: 'https://www.twitter.com/emsesc',
   },
 ];
 
