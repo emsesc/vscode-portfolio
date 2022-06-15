@@ -15,21 +15,21 @@ const RepoCard = ({ repo }) => {
       <div className={styles.stats}>
         <div>
           <div>
-            <WatchIcon className={styles.icon} /> {repo.watchers}
+            <WatchIcon className={styles.icon} /> {repo.watchers.totalCount}
           </div>
           <div>
-            <ForkIcon className={styles.icon} /> {repo.forks}
+            <ForkIcon className={styles.icon} /> {repo.forkCount}
           </div>
           <div>
-            <StarIcon className={styles.icon} /> {repo.stargazers_count}
+            <StarIcon className={styles.icon} /> {repo.stargazerCount}
           </div>
         </div>
         <div>
-          <a href={repo.html_url} target="_blank" rel="noopener noreferrer">
+          <a href={repo.url} target="_blank" rel="noopener noreferrer">
             <GithubIcon height={20} width={20} className={styles.icon} />
           </a>
-          {repo.homepage && (
-            <a href={repo.homepage} target="_blank" rel="noopener noreferrer">
+          {repo.homepageUrl && (
+            <a href={repo.homepageUrl} target="_blank" rel="noopener noreferrer">
               <LinkIcon height={20} width={20} className={styles.icon} />
             </a>
           )}
