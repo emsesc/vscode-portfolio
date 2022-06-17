@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Intro to Serverless",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
+    "image": "https://user-images.githubusercontent.com/69332964/174205195-7ea4c0a9-0b25-458c-9079-f642b34f3e2d.png",
+    "description": "An interactive curriculum on GitHub that introduces students to serverless architectures",
     "tags": ["serverless", "azure", "nodejs", "apis", "html/css"],
     "source_code": "https://github.com/itsnitinr/driwwwle-v2",
     "demo": "https://driwwwle.com/"
@@ -11,16 +11,16 @@
   {
     "id": 2,
     "name": "CounselorBot",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
+    "image": "https://user-images.githubusercontent.com/69332964/174205192-42044b26-f0ee-4105-b7f1-8f0a5914eb83.png",
+    "description": "A GitHub bot that guides students through curriculum on GitHub, provides and receives feedback, and automatically checks code",
     "tags": ["probot", "nodejs", "hasura", "graphql", "postgresql", "github-actions", "cypress"],
     "demo": "https://www.pcbcupid.com/"
   },
   {
     "id": 3,
     "name": "TinyHats",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "image": "https://user-images.githubusercontent.com/69332964/174205197-cc7fe989-92d8-4adb-8c91-8b3b47626edc.png",
+    "description": "A microservices application that receives submissions for hats and puts hats on faces",
     "tags": ["kubernetes", "nodejs", "python", "golang", "expressjs", "pixie", "newrelic", "aws"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
@@ -28,8 +28,8 @@
   {
     "id": 4,
     "name": "CyberSleuth",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "image": "https://user-images.githubusercontent.com/69332964/174205194-b9ffbec2-2bc1-4943-b8f0-c7db384b7c17.png",
+    "description": "A beginner-friendly introduction to cybersecurity through hands-on activities",
     "tags": ["python", "html/css", "steganography", "cyberforensics", "linux"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
@@ -37,17 +37,17 @@
   {
     "id": 5,
     "name": "CounselorTracker",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["azure", "cron", "nodejs", "hasura", "graphql", "postgresql"],
+    "image": "https://user-images.githubusercontent.com/69332964/174205156-cbb31566-86ff-4221-b6cd-4144717a1a4d.png",
+    "description": "A notification system that keeps students on track through automated Slack messages and emails powered through Courier",
+    "tags": ["azure", "cron", "nodejs", "hasura", "graphql", "postgresql", "courier"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
   },
   {
     "id": 6,
     "name": "CounselorLeaderboard",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "image": "https://user-images.githubusercontent.com/69332964/174205190-50ddba57-ddbd-4e66-91cd-19e85ba4e555.png",
+    "description": "A simple leaderboard that displays the information of top students completing curriculum",
     "tags": ["html/css/js", "expressjs"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
@@ -55,8 +55,8 @@
   {
     "id": 7,
     "name": "Bunnimage",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "image": "https://user-images.githubusercontent.com/69332964/174205202-f683a18c-27d2-432b-810d-95406a92186f.png",
+    "description": "A web-based file sharing system that eliminates the complications of different operating systems",
     "tags": ["nodejs", "azure", "html/css/js"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
@@ -64,9 +64,9 @@
   {
     "id": 8,
     "name": "SyncFit",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["aws-s3", "expressjs", "nodejs", "bootstrap", "apis"],
+    "image": "https://user-images.githubusercontent.com/69332964/174205200-5d28267c-722e-453b-b769-9145c8ab8d5d.png",
+    "description": "A simple and automated way to export workout data from FitBit",
+    "tags": ["aws-s3", "expressjs", "nodejs", "bootstrap", "apis", "auth"],
     "source_code": "https://github.com/itsnitinr/vscode-portfolio",
     "demo": "http://vscode-portfolio.vercel.app/"
   }
