@@ -48,7 +48,8 @@
     "image": "https://user-images.githubusercontent.com/69332964/174205190-50ddba57-ddbd-4e66-91cd-19e85ba4e555.png",
     "description": "A simple leaderboard that displays the information of top students completing curriculum",
     "tags": ["html/css/js", "expressjs"],
-    "demo": "https://bit-leaderboard.herokuapp.com/"
+    "demo": "https://bit-leaderboard.herokuapp.com/",
+    "source_code": "https://github.com/bitprj/counselor-leaderboard"
   },
   {
     "id": 7,
