@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: 'emilychen.me',
-    href: 'https://my-portfolio-2022-two.vercel.app/',
+    href: 'https://emilyschen.vercel.app/',
   },
   {
     social: 'email',
